@@ -29,7 +29,7 @@ const ShopPage = ({ fetchCollectionsStart, match }) => {
             component={CollectionPageContainer}
           />
           </Suspense>
-          </ShopPageContainer>
+        </ShopPageContainer>
     ); 
   }
 
