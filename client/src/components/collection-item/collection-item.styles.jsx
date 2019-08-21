@@ -27,13 +27,12 @@ export const CollectionItemContainer = styled.div`
       .image {
         opacity: unset;
       }
-  
+
       button {
         opacity: unset;
       }
     }
-
-}
+  }
 `;
 
 export const AddButton = styled(CustomButton)`
